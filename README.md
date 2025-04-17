@@ -21,11 +21,7 @@ vehicle-management-system/
 Watch the full demo here:  
 📺 [Click to watch on YouTube]()
 
-You can also embed it directly:
 
-[![Vehicle Management System Demo](https://youtu.be/9w3SjgjZVQU?si=tjYtng_Y2G_iP-Hh)](https://youtu.be/9w3SjgjZVQU?si=tjYtng_Y2G_iP-Hh)
-
----
 
 ## 🚀 Getting Started
 
