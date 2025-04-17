@@ -1,0 +1,84 @@
+/* Header container */
+header {
+    transition: all 0.3s ease;
+  }
+  
+  /* Logo styling */
+  header .flex-shrink-0 h1 {
+    font-size: 1.75rem;
+  }
+  
+  /* Navigation buttons */
+  header .flex.items-center button {
+    font-size: 1rem;
+  }
+  
+  /* Toggle menu button */
+  header .flex.items-center .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  /* Ensure header content aligns properly for small screens */
+  @media screen and (max-width: 768px) {
+    header .max-w-7xl {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  
+    /* Logo font size on mobile */
+    header .flex-shrink-0 h1 {
+      font-size: 1.5rem;
+    }
+  
+    /* Header buttons stack vertically on small screens */
+    header .flex.items-center {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    header .flex.items-center button {
+      width: 100%;
+      text-align: left;
+      padding: 0.75rem 1.25rem;
+    }
+  
+    /* Menu icon change on small screens */
+    header .flex.items-center button {
+      padding: 1rem;
+      margin-bottom: 0.5rem;
+    }
+  
+    header .flex.items-center .ml-4 {
+      margin-top: 1rem;
+    }
+  }
+  
+  /* Mobile menu toggle */
+  @media screen and (max-width: 640px) {
+    /* Menu icons adjustment */
+    header .flex.items-center button {
+      margin-bottom: 0.5rem;
+    }
+  
+    /* Make the text bigger and more visible on mobile */
+    header .text-xl {
+      font-size: 1.25rem;
+    }
+  
+    header .flex-shrink-0 h1 {
+      font-size: 1.25rem;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    /* Small screen adjustments */
+    header .flex.items-center {
+      padding-top: 0.5rem;
+    }
+  
+    /* Full-width buttons */
+    header .flex.items-center button {
+      width: 100%;
+    }
+  }
+  
