@@ -16,11 +16,16 @@ vehicle-management-system/
 
 ---
 
-🎥 Demo Video
+
+
+---
+
+## 🎥 Demo Video
+
 📺 Watch the full demo here:
+[![Watch the full demo](https://img.youtube.com/vi/9w3SjgjZVQU/0.jpg)](https://youtu.be/9w3SjgjZVQU?si=tjYtng_Y2G_iP-Hh)
 
-
-
+---
 
 
 ## 🚀 Getting Started
