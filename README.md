@@ -25,7 +25,7 @@ vehicle-management-system/
 ### 📺 Watch the full demo here:
 [![Watch the full demo](https://img.youtube.com/vi/9w3SjgjZVQU/0.jpg)](https://youtu.be/9w3SjgjZVQU?si=tjYtng_Y2G_iP-Hh)
 
-### 🚘 Vehicle Management System – Live Showcase
+### 🚘 Vehicle Management System Exhibition 
 
 [KCC Infotel 2025](https://www.linkedin.com/posts/kavindarupasingha_infotel-2025-at-kcc-activity-7303783765682577409-Xvyl)
 
