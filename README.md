@@ -25,10 +25,11 @@ vehicle-management-system/
 ### 📺 Watch the full demo here:
 [![Watch the full demo](https://img.youtube.com/vi/9w3SjgjZVQU/0.jpg)](https://youtu.be/9w3SjgjZVQU?si=tjYtng_Y2G_iP-Hh)
 
-##KCC Infotell Exhibition
-https://www.linkedin.com/posts/kavindarupasingha_infotel-2025-at-kcc-activity-7303783765682577409-Xvyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFiK6sBmFXr6FQ0zMfNr4pD98HZKrR05I8
+### 🚘 Vehicle Management System – Live Showcase
 
-https://www.linkedin.com/posts/kavindarupasingha_kccinfortel2025-kcc-smartprojects-activity-7303774136168775680-6tX9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFiK6sBmFXr6FQ0zMfNr4pD98HZKrR05I8
+[![KCC Infotel 2025](assets/infotel-2025-preview-1.png)](https://www.linkedin.com/posts/kavindarupasingha_infotel-2025-at-kcc-activity-7303783765682577409-Xvyl)
+
+[![KCC Infotel 2025](assets/infotel-2025-preview-2.png)](https://www.linkedin.com/posts/kavindarupasingha_kccinfortel2025-kcc-smartprojects-activity-7303774136168775680-6tX9)
 
 ---
 
