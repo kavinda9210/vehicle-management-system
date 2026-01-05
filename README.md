@@ -27,9 +27,9 @@ vehicle-management-system/
 
 ### 🚘 Vehicle Management System – Live Showcase
 
-[[KCC Infotel 2025](https://www.linkedin.com/posts/kavindarupasingha_infotel-2025-at-kcc-activity-7303783765682577409-Xvyl)
+[KCC Infotel 2025](https://www.linkedin.com/posts/kavindarupasingha_infotel-2025-at-kcc-activity-7303783765682577409-Xvyl)
 
-[[KCC Infotel 2025](https://www.linkedin.com/posts/kavindarupasingha_kccinfortel2025-kcc-smartprojects-activity-7303774136168775680-6tX9)
+[KCC Infotel 2025](https://www.linkedin.com/posts/kavindarupasingha_kccinfortel2025-kcc-smartprojects-activity-7303774136168775680-6tX9)
 
 ---
 
